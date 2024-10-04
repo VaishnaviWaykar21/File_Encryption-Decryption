@@ -51,19 +51,3 @@ public class Task_3 {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//C:\Users\DELL\OneDrive\Desktop\Cognifyz_Technologies\src\Level_2\input.txt
-//C:\Users\DELL\OneDrive\Desktop\Cognifyz_Technologies\src\Level_2\output.txt
